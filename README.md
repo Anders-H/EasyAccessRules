@@ -11,3 +11,7 @@ Load the file into the program and select the chapters you want to include in yo
 ## Screenshot
 
 ![Screenshot](https://github.com/Anders-H/EasyAccessRules/blob/main/screenshot_v1.png?raw=true "Screenshot")
+
+## Download
+
+[https://winsoft.se/files/SetupEasyAccessRules.msi](https://winsoft.se/files/SetupEasyAccessRules.msi)
